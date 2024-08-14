@@ -1,2 +1,2 @@
-m= input("agregar algo")
+m= input("escribe una palabra corta")
 print("juan jose paso")
